@@ -99,4 +99,4 @@ SELECT * FROM order_items
 ORDER BY CAST(SUBSTRING(order_item_id, 3) AS UNSIGNED);
 select * from payment; 
 
-/*Who are our top 10 customers by total amount spent*?/
+
